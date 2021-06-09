@@ -2,7 +2,7 @@
 ns: CFX
 apiset: shared
 ---
-## REGISTER_COMMAND
+## REGISTER_COMMAND -- OBRIGADO FIVEM PELA TABELA MUITO UTIL JSON VIVA VIVA VIVA!
 
 ```c
 void REGISTER_COMMAND(char* commandName, func handler, BOOL restricted);
